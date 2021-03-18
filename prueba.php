@@ -1,11 +1,11 @@
 <?php
 
 $fecha = date("d/m/Y");
-$edad = 26;
-$nombre ="Tamara";
-$aPeliculas = array("Shrek",
-                     "Patch Adams",
-                     "Avengers"
+$edad = 29;
+$nombre ="Agustina";
+$aPeliculas = array("Orgullo y prejuicio",
+                     "Gone girl",
+                     "El origen"
    );
 ?>
 
